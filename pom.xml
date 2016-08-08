@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>q</artifactId>
-    <version>1.4.1-SNAPSHOT</version>
+    <version>1.4.1</version>
     <name>Q</name>
     <description>WebJar for Q</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/q</url>
         <connection>scm:git:https://github.com/webjars/q.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/q.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>q-1.4.1</tag>
     </scm>
 
     <properties>
